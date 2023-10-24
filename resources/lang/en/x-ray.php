@@ -1,0 +1,28 @@
+<?php
+
+return array(
+    'list of employees' =>'list of employees',
+    'list of statements' => 'list of statements',
+    'statements'=> 'statements',
+    'invoices'  => 'invoices' ,
+    'invoice date' =>  'invoice date',
+    'Patient name'  => 'Patient name' ,
+    'Doctor name'  => 'Doctor name' ,
+    'Required'=>  'Required',
+    'Invoice status' => 'Invoice status',
+    'Processes' => 'Processes',
+    'Under procedure' => 'Under procedure',
+    'Add diagnosis' => 'Add diagnosis',
+    'Diagnosis' => 'Diagnosis' ,
+    'Attachments' => 'Attachments' ,
+    'confirmation' => 'confirmation',
+    'completed invoices'=> 'completed invoices',
+    'x-rays' => 'x-rays',
+    'notes'  => 'notes' ,
+    'x-ray control panel' => 'x-ray control panel',
+    'Welcome back ' => 'Welcome back ',
+    'Total number invoices'  => 'Total number invoices' ,
+    'Total number invoices under processing'  => 'Total number invoices under processing' ,
+    'Total number completed invoices '  => 'Total number completed invoices ' ,
+    'The last 5 invoices on system' => 'The last 5 invoices on system',
+);

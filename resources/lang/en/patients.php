@@ -1,0 +1,32 @@
+<?php
+
+return array (
+    "add patient" => "add patient",
+    "patient list" => "patient list",
+    'Define patient review ' => 'Define patient review ',
+    'Diagnosis'=> 'Diagnosis',
+    'pharmaceutical' => 'pharmaceutical',
+    'Review Date' => 'Review Date',
+    'Save Data' => 'Save Data',
+    'Close' => 'Close',
+    'Patient record'=> 'Patient record',
+    'X-rays'=>'X-rays',
+    'Laboratory' => 'Laboratory',
+    'Service name'=>'Service name',
+    'Doctor name' => 'Doctor name',
+    'name radiology employee' => 'name radiology employee',
+    'Detection status' => 'Detection status',
+    'Processes' => 'Processes' ,
+    'not complete'  => 'not complete' ,
+    'complete' => 'complete',
+    'patient' => 'patient',
+    'email' => 'email ',
+    'Date birth'  => 'Date birth' ,
+    'gender'  => 'gender' ,
+    'Choose' => ' Choose ',
+    'Male' => 'Male',
+    'female' => 'female',
+    'Blood quarter'=>'Blood quarter',
+    'Address' => 'Address',
+);
+

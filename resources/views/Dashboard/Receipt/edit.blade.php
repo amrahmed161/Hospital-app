@@ -88,8 +88,6 @@
     <script src="{{URL::asset('Dashboard/plugins/jquery-ui/ui/widgets/datepicker.js')}}"></script>
     <!--Internal  jquery.maskedinput js -->
     <script src="{{URL::asset('Dashboard/plugins/jquery.maskedinput/jquery.maskedinput.js')}}"></script>
-    <!--Internal  spectrum-colorpicker js -->
-    <script src="{{URL::asset('Dashboard/plugins/spectrum-colorpicker/spectrum.js')}}"></script>
     <!-- Internal Select2.min js -->
     <script src="{{URL::asset('Dashboard/plugins/select2/js/select2.min.js')}}"></script>
     <!--Internal Ion.rangeSlider.min js -->

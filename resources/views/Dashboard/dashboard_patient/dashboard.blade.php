@@ -120,10 +120,6 @@
 <script src="{{URL::asset('Dashboard/js/chart.flot.sampledata.js')}}"></script>
 <!--Internal Apexchart js-->
 <script src="{{URL::asset('Dashboard/js/apexcharts.js')}}"></script>
-<!-- Internal Map -->
-<script src="{{URL::asset('Dashboard/plugins/jqvmap/jquery.vmap.min.js')}}"></script>
-<script src="{{URL::asset('Dashboard/plugins/jqvmap/maps/jquery.vmap.usa.js')}}"></script>
-<script src="{{URL::asset('Dashboard/js/modal-popup.js')}}"></script>
 <!--Internal  index js -->
 <script src="{{URL::asset('Dashboard/js/index.js')}}"></script>
 <script src="{{URL::asset('Dashboard/js/jquery.vmap.sampledata.js')}}"></script>
